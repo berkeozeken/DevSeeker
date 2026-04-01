@@ -31,3 +31,10 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Env / Secrets
+application.yml
+.env
+
+# Mac
+.DS_Store
